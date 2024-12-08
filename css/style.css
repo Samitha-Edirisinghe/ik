@@ -1,0 +1,142 @@
+body{ margin:0; font-family:'HelveticaCERegular', Verdana, Geneva, sans-serif;}
+.heder{ background:#333333;height:auto;}
+.hotlinetxt1 ,.hotlinetxt2{ color:#40b0f2 !important; line-height: 14px; margin-bottom: 0;;font-size: 14px;}
+.logo{margin-top: 25px;}
+.hotline1{font-family:Myriad Pro;font-size:20px;text-align:right;padding-top:10px;}
+.hotline2{font-family:Myriad Pro;font-size: 24px;text-align:right;margin-top: -20px;}
+.hotlinetxt2, .hotline{ text-align:right}
+.menu{float:right;border-radius:9px;margin-top:10px;width:auto;}
+.midill{background-image:linear-gradient(to bottom,#737677 0,#dde0e1c2 100%);padding-bottom: 10px;}
+.productMenu{ background:#005b90; border:2px solid #333333;padding:0 !important;  border-radius:8px;margin-top:10px;}
+.productMenu h1{ margin:0; background: #333; padding: 10px; color:#40b0f2; font-size:24px; font-weight:bolder; letter-spacing: 1px;}
+.productMenu ul, .quicklinks ul{ list-style:none; padding: 0; margin:0;}
+.productMenu ul li.active{; background:#000;}
+.productMenu ul li a{padding: 5px 10px; display: block; border-top: 1px solid #168ed4; color:#fff;}
+.productMenu ul li a:hover, .productMenu ul li a.active{ text-decoration:none; background:#000;}
+.servicesMenu{ background:#000; border:2px solid #333333;padding:0 !important;  border-radius:8px;margin-top:10px;}
+.servicesMenu ul li a{padding: 5px 10px; display: block; color:#fff;}
+.servicesMenu ul li{text-decoration:none;}
+.servicestxt{font-size: 24px;margin: 10px 10px 10px 20px;color:#41b1f2;}
+.slider{ width:auto; min-height:273px;border-radius:8px; overflow:hidden;margin-top:10px;}
+.homeAbout{background: #333;border-radius: 8px;margin: -15px 0;padding: 15px;}
+.homeAbout h1{ margin:0 0 10px 0;font-size: 30px;color: #41b0f2;font-weight: bolder;}
+.homeAbout p{color: #fff; text-align:justify;}
+.readMore{text-transform: uppercase;font-size: 12px;background: #005b90;padding: 8px 15px;border-radius: 5px;color: #fff; border:1px solid #1a88c8;}
+.abouttxt{font-size:14px;color:#FFF;padding-bottom:15px;}
+.readMore:hover{ background:#333; text-decoration:none; border:1px solid #41b1f2; color:#41b1f2;}
+.homeNewProducts{border: 1px solid #d3d3d3;border-radius: 8px;overflow: hidden; margin-bottom:20px; background:#fff;}
+.newProductsTitle h1{margin: 0; border-bottom: 1px solid #d3d3d3; padding: 5px 20px; font-size: 30px; color: #41b1f2; font-weight: bolder;
+ letter-spacing: 0px;}
+.product {border-right: 1px solid #d3d3d3; text-align:center; position:relative; padding-top: 15px;padding-bottom: 15px;
+ background:#fff;}
+.product img {}
+.product a { display:block;}
+.new-label{ position:absolute; top:10px; right:0; }
+
+.homeMap{padding-bottom:20px;}
+.home-map{ height:350px;border:1px solid #a6a6a6; margin-top:20px; margin-bottom:20px; background:#dedddb;}
+.footerfluid{ background:#6a6a6a;}
+.footerbottom{ background:#41b1f2;}
+.quicklinks{}
+.quicklinks h1, .fbplugin h1, .findus h1{ font-size: 24px; font-weight: bolder; color: #fff; }
+.quicklinks ul li a{ color: #fff; line-height: 30px; padding-left: 15px; font-size: 15px; text-decoration: underline;}
+.fbplugin{ text-align:center;}
+.findus{ text-align:right;margin-bottom:25px;}
+.findus h2{font-size: 18px;color: #fff;font-weight: bolder; margin:0;font-style:normal;padding-right:15px;}
+.findus p{color: #fff;padding-right:15px;}
+.findus p a{color: #41b1f2; text-decoration: underline;}
+.findus img{ width:70%;}
+.copytxt p{ color:#FFF; font-size:12px;line-height: 35px;}
+.email{margin-bottom:10px;}
+.copytxt2 p{ text-align:right; color:#FFF; font-size:12px;line-height: 37px;}
+.copytxt2 p a{ color:#FF0; text-decoration:underline;}
+.socialMedia{background: #333333; width: auto; position: fixed; top: 20%;  right: 0; border-radius: 5px 0 0 5px; z-index: 10000;width:4%;}
+.socialMedia ul{list-style: none;padding: 0;margin-top: 5px;}
+.socialMedia li{text-align: center;}
+.newProductsTitle{float:left;}
+.solutiontxt{text-align:right;}
+.product h1 {margin: 0 !important;font-size: 15px;color: #333 !important;text-align: center;height: 50px !important; font-weight: normal !important;}
+.btnmove{padding-top:5px;}
+.btn{color:white;
+background-color:blue;
+padding: 6px;}
+
+/*----------------------------------about--------------------------------------*/
+
+.about{background-color:#FFF;}
+.aboutimg{padding-top:10px}
+.aboutus{font-size:36px;color:#41b0f2;}
+.aboutustxt1 ,.aboutustxt2{font-size:14px;color:#333;line-height:20px;text-align:left;margin-bottom:-8px;}
+.aboutustxt1{padding-bottom:10px;}
+.visiontxt{color:#41b1f2;font-size:18px;}
+
+/*----------------------------------service--------------------------------------*/
+.servicestitele{font-size:36px;color:#41b0f2;}
+.servicesimg{padding:10px;}
+.service{border: 2px solid #333;border-radius: 8px;overflow: hidden;background: #333;margin-bottom: 30px;}
+.servicetxt h1{margin: 0;color: #41b0f2;padding: 10px;display: block;}
+.servicetxt{color:#41b0f2;margin-left:10px;}
+/*----------------------------------news--------------------------------------*/
+.news{padding: 0;margin-bottom: 10px; background:#efefef;}
+.newsimg{padding:0 0 0 0;padding-top: 4px;}
+.newstxt h1{margin: 0;font-size: 18px;padding: 10px 0 7px 0;color:#41b0f2;}
+.newstxt p{font-size:14px;color:#333333;line-height: 21px;}
+/*----------------------------------contact--------------------------------------*/
+.map{ height:400px; background:#dedddb;}
+.pagecontainer h1{color:#41b0f2;font-size:30px;}
+.form label{display: block;font-size: 16px;margin: 10px 0 0 0;color:#33333}
+.input{border: 1px solid #b3b3b3;background: #fff;width: 100%;height: 40px;display: block;padding: 5px;border-radius: 5px;}
+.submit{border: 1px solid #1481c1;background: #41b1f2;width: 100%;padding: 8px;color: #fff;text-transform: uppercase;margin-top: 10px;border-radius: 5px;
+margin-bottom:10px;}
+.address{text-align: center;}
+.address h2{font-size:24px;}
+.address p{font-size:18px;}
+.email{color:#40b0f2;font-size:18px;}
+.contactimg{margin-top:10px;border:1px solid #000;}
+
+/*----------------------------------produc--------------------------------------*/
+
+.producth4{font-size:14px;color:#a1a1a1;}
+.producth1{font-size:30px;color:#40b0f2;}
+.produt-view{background-color:#f2f2f2;margin-bottom: 10px;}
+.produt-view-img1 ,.produt-view-img2{margin-top:10px;margin-bottom:10px;}
+.produt-view h1{text-align:center;color:#41b1f2;font-size:24px;}
+.produt-view-titele{text-align:center;color:#41b1f2;font-size:24px;}
+.produt-view-para{font-size:14px;text-align:left;color:#333333;line-height:20px;padding: 10px 0 10px 0;}
+.item-titele{font-size:14px;padding:10px 10px 10px 10px;}
+.item-titele1{font-size:18px;padding:10px 10px 10px 10px;}
+
+
+@media (max-width:767px) {
+.hotlinetxt1 ,.hotlinetxt2 ,.hotline1 ,.hotline2{text-align:center !important;}
+.hotlinetxt1 ,.hotlinetxt2{font-size:12px !important;line-height:20px !important;}
+.hotline1{font-size:24px;line-height: 16px !important;}
+.homeAbout ,.abouttxt ,.readMore{text-align:center !important;font-size:12px !important;}
+.quicklinks h1, .fbplugin h1, .findus h1{text-align:center !important;}
+.quicklinks ul li{text-align:center !important;}
+.findus h2{text-align:center !important;padding-right: 0px;}
+.findus p{text-align:center !important;padding-right: 0px;}
+.copytxt p{text-align:center !important;font-size:12px !important;line-height: 17px !important;}
+.copytxt2 p{text-align:center !important;font-size:12px !important;}
+.homeMap h1{text-align:center !important;font-size: 30px !important;}
+.email{font-size:14px !important;}
+.socialMedia{width:7%;}
+.quicklinks ul li a{  padding-left: 0px;}
+.newProductsTitle h1{font-size:14px !important;padding-left:0 !important;}
+/*----------------------------------about--------------------------------------*/
+.aboutustxt1 ,.aboutustxt2 ,.visiontxt ,.aboutus{text-align:center !important;}
+
+/*----------------------------------service--------------------------------------*/
+.servicestitele{text-align:center !important;}
+/*----------------------------------news--------------------------------------*/
+.newstxt h1{text-align:center !important;}
+.newstxt p{text-align:center !important;}
+/*----------------------------------contact--------------------------------------*/
+
+
+
+/*----------------------------------produc--------------------------------------*/
+.producth4{text-align:center !important;}
+.producth1 ,.produt-view-para ,.item-titele ,.item-titele1{text-align:center !important;font-size: 15px ;}
+.produt-view-titele {text-align:center !important;font-size: 20px ;}
+}
